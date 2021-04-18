@@ -8,7 +8,7 @@
 subhamsah281/subhamsah281 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-<a href="https://www.linkedin.com/in/siddharth-majhi/">
+<a href="https://www.linkedin.com/in/subhamsah/">
   <img src="https://github.com/yoshimitsu117/yoshimitsu117/blob/main/iconfinder_linkedin_1807540.png"
        alt="Linked In Link"
        height="50"
